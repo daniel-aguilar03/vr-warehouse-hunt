@@ -1,0 +1,20 @@
+{
+  "name": "vr-warehouse-hunt",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WebXR warehouse scavenger hunt with teleport and smooth travel, snap turning, comfort options and persistent preferences.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "prepare": "node tools/vendor.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node tools/check.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  }
+}
