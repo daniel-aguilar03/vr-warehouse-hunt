@@ -2,9 +2,9 @@
 
 A **WebXR inventory-search experience** built around locomotion and comfort. Find five exact stock codes among look-alike boxes while exploring a four-zone warehouse.
 
-[Open the live demo](https://daniel-aguilar03.github.io/vr-warehouse-hunt/) · [Watch the walkthrough](https://youtu.be/hUUlV8C-KY8)
+[Open the live demo](https://daniel-aguilar03.github.io/vr-warehouse-hunt/) · [Watch the walkthrough](https://youtu.be/1yvPVkiLl5o)
 
-[![Warehouse hunt walkthrough](https://img.youtube.com/vi/hUUlV8C-KY8/hqdefault.jpg)](https://youtu.be/hUUlV8C-KY8)
+[![Warehouse hunt walkthrough](https://img.youtube.com/vi/1yvPVkiLl5o/hqdefault.jpg)](https://youtu.be/1yvPVkiLl5o)
 
 ## Highlights
 
